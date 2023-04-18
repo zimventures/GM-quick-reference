@@ -1,0 +1,1406 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="8.5in"
+   height="11in"
+   viewBox="0 0 816 1056"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e4, 2022-07-14)"
+   sodipodi:docname="gml_math_and_numbers.svg"
+   xml:space="preserve"
+   inkscape:export-filename="gml_math_and_numbers.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="in"
+     showgrid="false"
+     inkscape:zoom="1.2433672"
+     inkscape:cx="203.88185"
+     inkscape:cy="375.99513"
+     inkscape:window-width="1680"
+     inkscape:window-height="997"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true"><sodipodi:guide
+       position="24,987.56835"
+       orientation="-1,0"
+       id="guide1503"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" /><sodipodi:guide
+       position="792,1008.6242"
+       orientation="-1,0"
+       id="guide1505"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" /><sodipodi:guide
+       position="515.11738,1032"
+       orientation="0,1"
+       id="guide1507"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" /><sodipodi:guide
+       position="577.53306,24"
+       orientation="0,1"
+       id="guide1509"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" /></sodipodi:namedview><defs
+     id="defs2"><color-profile
+       name="Blue-Tone"
+       xlink:href="file:///Library/ColorSync/Profiles/Blue%20Tone.icc"
+       id="color-profile15556" /></defs><g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"><rect
+       style="fill:#b1ffa4;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       id="rect10596"
+       width="890.83447"
+       height="1127.6089"
+       x="-46.886024"
+       y="-35.164516"
+       rx="9.6000004"
+       ry="9.6000004" /><path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       d="m 244.44199,221.0163 c -12.05091,24.99751 3.04746,149.81988 -7.12956,204.72016 -6.00983,32.42024 292.52823,29.61868 290.27486,-5.09255 -0.90173,-13.89038 7.0034,-19.54174 20.37017,-23.42569 C 609.69114,379.2804 787.3069,394.1627 787.3069,394.1627 V 223.05331 c 0,0 -534.47577,-19.43882 -542.86491,-2.03701 z"
+       id="path13824"
+       sodipodi:nodetypes="ssssccs" /><rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       id="rect6061"
+       width="754.45398"
+       height="447.33112"
+       x="31.562037"
+       y="583.29071"
+       rx="9.6000004"
+       ry="9.6000004" /><path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       d="m 37.631658,344.75454 c -9.758207,24.08126 -10.479633,217.53158 0,224.57603 11.90853,8.00497 306.896562,12.89055 315.620362,0 14.5955,-21.56675 13.97358,-94.96357 0,-114.71586 -6.15534,-8.70084 -83.16079,17.85004 -121.99941,0 -24.18454,-11.1151 8.0209,-103.02551 0,-109.2532 -10.70912,-8.31492 -190.107581,-9.27725 -193.620952,-0.60697 z"
+       id="path5992"
+       sodipodi:nodetypes="sssssss" /><rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       id="rect5936"
+       width="192.40703"
+       height="171.77031"
+       x="593.02881"
+       y="406.21899"
+       rx="9.6000004"
+       ry="9.6000004" /><rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       id="rect5934"
+       width="318.65518"
+       height="177.83994"
+       x="418.10773"
+       y="34.596848"
+       rx="9.6000004"
+       ry="9.6000004" /><path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       d="M 31.397578,33.050082 H 347.02586 c 0,0 25.76975,111.960358 -16.29613,154.026238 -26.09643,26.09643 -69.34373,0.38479 -95.44016,26.48122 -28.43342,28.43342 9.40266,105.16461 -10.18508,108.4107 -76.5425,12.68463 -142.975212,13.20489 -188.782754,3.05552 C 17.584482,320.87223 31.397578,33.050082 31.397578,33.050082 Z"
+       id="path5827"
+       sodipodi:nodetypes="ccssssc" /><text
+       xml:space="preserve"
+       style="fill:#000000"
+       x="43.624359"
+       y="83.411125"
+       id="text63"><tspan
+         sodipodi:role="line"
+         id="tspan61"
+         x="43.624359"
+         y="83.411125">real <tspan
+   style="font-weight:bold"
+   id="tspan115">arccos</tspan>(real <tspan
+   style="font-style:italic"
+   id="tspan131">x</tspan>);</tspan><tspan
+         sodipodi:role="line"
+         x="43.624359"
+         y="98.411125"
+         id="tspan121">real <tspan
+   style="font-weight:bold"
+   id="tspan123">arcsin</tspan>(real <tspan
+   style="font-style:italic"
+   id="tspan133">x</tspan>);</tspan><tspan
+         sodipodi:role="line"
+         x="43.624359"
+         y="113.41113"
+         id="tspan125">real <tspan
+   style="font-weight:bold"
+   id="tspan127">arctan</tspan>(real <tspan
+   style="font-style:italic"
+   id="tspan135">x</tspan>);</tspan><tspan
+         sodipodi:role="line"
+         x="43.624359"
+         y="128.41113"
+         id="tspan129">real <tspan
+   style="font-weight:bold"
+   id="tspan141">arctan2</tspan>(real <tspan
+   style="font-style:italic"
+   id="tspan137">x</tspan>, real <tspan
+   style="font-style:italic"
+   id="tspan139">y</tspan>);</tspan><tspan
+         sodipodi:role="line"
+         x="43.624359"
+         y="143.41113"
+         id="tspan148">real <tspan
+   style="font-weight:bold"
+   id="tspan156">cos</tspan>(real <tspan
+   style="font-style:italic"
+   id="tspan150">va</tspan>l);</tspan><tspan
+         sodipodi:role="line"
+         x="43.624359"
+         y="158.41113"
+         id="tspan152">real <tspan
+   style="font-weight:bold"
+   id="tspan158">sin</tspan>(real <tspan
+   style="font-style:italic"
+   id="tspan154">val</tspan>);</tspan><tspan
+         sodipodi:role="line"
+         x="43.624359"
+         y="173.41113"
+         id="tspan160">real <tspan
+   style="font-weight:bold"
+   id="tspan184">tan</tspan>(real <tspan
+   style="font-style:italic"
+   id="tspan224">val</tspan>);</tspan><tspan
+         sodipodi:role="line"
+         x="43.624359"
+         y="188.41113"
+         id="tspan162">real <tspan
+   style="font-weight:bold"
+   id="tspan186">dcos</tspan>(real <tspan
+   style="font-style:italic"
+   id="tspan222">val</tspan>);</tspan><tspan
+         sodipodi:role="line"
+         x="43.624359"
+         y="203.41113"
+         id="tspan164">real <tspan
+   style="font-weight:bold"
+   id="tspan188">dsin</tspan>(real <tspan
+   style="font-style:italic"
+   id="tspan220">val</tspan>);</tspan><tspan
+         sodipodi:role="line"
+         x="43.624359"
+         y="218.41113"
+         id="tspan166">real <tspan
+   style="font-weight:bold"
+   id="tspan190">dtan</tspan>(real <tspan
+   style="font-style:italic"
+   id="tspan218">val</tspan>);</tspan><tspan
+         sodipodi:role="line"
+         x="43.624359"
+         y="233.41113"
+         id="tspan168">real <tspan
+   style="font-weight:bold"
+   id="tspan192">darccos</tspan>(real <tspan
+   style="font-style:italic"
+   id="tspan216">x</tspan>);</tspan><tspan
+         sodipodi:role="line"
+         x="43.624359"
+         y="248.41113"
+         id="tspan172">real <tspan
+   style="font-weight:bold"
+   id="tspan194">darcsin</tspan>(real <tspan
+   style="font-style:italic"
+   id="tspan214">val</tspan>);</tspan><tspan
+         sodipodi:role="line"
+         x="43.624359"
+         y="263.41113"
+         id="tspan174">real <tspan
+   style="font-weight:bold"
+   id="tspan196">darctan</tspan>(real <tspan
+   style="font-style:italic"
+   id="tspan212">val</tspan>);</tspan><tspan
+         sodipodi:role="line"
+         x="43.624359"
+         y="278.41113"
+         id="tspan176">real <tspan
+   style="font-weight:bold"
+   id="tspan198">darctan2</tspan>(real <tspan
+   style="font-style:italic"
+   id="tspan210">x</tspan>, real <tspan
+   style="font-style:italic"
+   id="tspan208">y</tspan>);</tspan><tspan
+         sodipodi:role="line"
+         x="43.624359"
+         y="293.41113"
+         id="tspan178">real <tspan
+   style="font-weight:bold"
+   id="tspan200">degtorad</tspan>(real <tspan
+   style="font-style:italic"
+   id="tspan206">deg</tspan>);</tspan><tspan
+         sodipodi:role="line"
+         x="43.624359"
+         y="308.41113"
+         id="tspan180">real <tspan
+   style="font-weight:bold"
+   id="tspan202">radtodeg</tspan>(real <tspan
+   style="font-style:italic"
+   id="tspan204">rad</tspan>);</tspan><tspan
+         sodipodi:role="line"
+         x="43.624359"
+         y="323.41113"
+         id="tspan182" /><tspan
+         sodipodi:role="line"
+         x="43.624359"
+         y="338.41113"
+         id="tspan170" /></text><text
+       xml:space="preserve"
+       style="font-size:16px;fill:#000000"
+       x="44.520844"
+       y="58.790161"
+       id="text228"><tspan
+         sodipodi:role="line"
+         id="tspan226"
+         x="44.520844"
+         y="58.790161"
+         style="font-weight:bold;font-size:16px">Angles &amp; Basic Trigonometry</tspan></text><text
+       xml:space="preserve"
+       style="fill:#000000"
+       x="253.03265"
+       y="260.25415"
+       id="text390"><tspan
+         sodipodi:role="line"
+         id="tspan388"
+         x="253.03265"
+         y="260.25415">real <tspan
+   style="font-weight:bold"
+   id="tspan428">point_direction</tspan>(real <tspan
+   style="font-style:italic"
+   id="tspan454">x1</tspan>, real <tspan
+   style="font-style:italic"
+   id="tspan456">y1</tspan>, real <tspan
+   style="font-style:italic"
+   id="tspan458">x2</tspan>, real <tspan
+   style="font-style:italic"
+   id="tspan460">y2</tspan>);</tspan><tspan
+         sodipodi:role="line"
+         x="253.03265"
+         y="275.25415"
+         id="tspan392">real <tspan
+   style="font-weight:bold"
+   id="tspan432">point_distance</tspan>(real <tspan
+   style="font-style:italic"
+   id="tspan468">x1</tspan>, real <tspan
+   style="font-style:italic"
+   id="tspan466">y1</tspan>, real <tspan
+   style="font-style:italic"
+   id="tspan464">x2</tspan>, real <tspan
+   style="font-style:italic"
+   id="tspan462">y2</tspan>);</tspan><tspan
+         sodipodi:role="line"
+         x="253.03265"
+         y="290.25415"
+         id="tspan394">real <tspan
+   style="font-weight:bold"
+   id="tspan434">point_distance_3d</tspan>(real <tspan
+   style="font-style:italic"
+   id="tspan470">x1</tspan>, real <tspan
+   style="font-style:italic"
+   id="tspan472">y1</tspan>, real <tspan
+   style="font-style:italic"
+   id="tspan474">z1</tspan>, real <tspan
+   style="font-style:italic"
+   id="tspan476">x2</tspan>, real <tspan
+   style="font-style:italic"
+   id="tspan478">y2</tspan>, real <tspan
+   style="font-style:italic"
+   id="tspan480">z2</tspan>);</tspan><tspan
+         sodipodi:role="line"
+         x="253.03265"
+         y="305.25415"
+         id="tspan396">real <tspan
+   style="font-weight:bold"
+   id="tspan436">distance_to_obj</tspan>(ObjectAsset | InstanceID <tspan
+   style="font-style:italic"
+   id="tspan482">obj</tspan>);</tspan><tspan
+         sodipodi:role="line"
+         x="253.03265"
+         y="320.25415"
+         id="tspan398">real <tspan
+   style="font-weight:bold"
+   id="tspan438">distance_to_point</tspan>(real <tspan
+   style="font-style:italic"
+   id="tspan484">x</tspan>, real <tspan
+   style="font-style:italic"
+   id="tspan486">y</tspan>);</tspan><tspan
+         sodipodi:role="line"
+         x="253.03265"
+         y="335.25415"
+         id="tspan400">real <tspan
+   style="font-weight:bold"
+   id="tspan440">dot_product</tspan>(real <tspan
+   style="font-style:italic"
+   id="tspan488">x1</tspan>, real <tspan
+   style="font-style:italic"
+   id="tspan490">y1</tspan>, real <tspan
+   style="font-style:italic"
+   id="tspan492">x2</tspan>, real <tspan
+   style="font-style:italic"
+   id="tspan494">y2</tspan>);</tspan><tspan
+         sodipodi:role="line"
+         x="253.03265"
+         y="350.25415"
+         id="tspan406">real <tspan
+   style="font-weight:bold"
+   id="tspan442">dot_product_3d</tspan>(real <tspan
+   style="font-style:italic"
+   id="tspan496">x1</tspan>, real <tspan
+   style="font-style:italic"
+   id="tspan498">y1</tspan>, real <tspan
+   style="font-style:italic"
+   id="tspan500">z1</tspan>, real <tspan
+   style="font-style:italic"
+   id="tspan502">x2</tspan>, real <tspan
+   style="font-style:italic"
+   id="tspan504">y2</tspan>, real <tspan
+   style="font-style:italic"
+   id="tspan506">z2</tspan>);</tspan><tspan
+         sodipodi:role="line"
+         x="253.03265"
+         y="365.25415"
+         id="tspan412">real <tspan
+   style="font-weight:bold"
+   id="tspan444">dot_product_normalized</tspan>(real <tspan
+   style="font-style:italic"
+   id="tspan514">x1</tspan>, real <tspan
+   style="font-style:italic"
+   id="tspan512">y1</tspan>, real  <tspan
+   style="font-style:italic"
+   id="tspan510">x2</tspan>, real <tspan
+   style="font-style:italic"
+   id="tspan508">y2</tspan>);</tspan><tspan
+         sodipodi:role="line"
+         x="253.03265"
+         y="380.25415"
+         id="tspan416">real <tspan
+   style="font-weight:bold"
+   id="tspan446">dot_product_3d_normalized</tspan>(real <tspan
+   style="font-style:italic"
+   id="tspan516">x1</tspan>, real <tspan
+   style="font-style:italic"
+   id="tspan518">y1</tspan>, real <tspan
+   style="font-style:italic"
+   id="tspan520">z1</tspan>, real  <tspan
+   style="font-style:italic"
+   id="tspan522">x2</tspan>, real <tspan
+   style="font-style:italic"
+   id="tspan524">y2</tspan>, real <tspan
+   style="font-style:italic"
+   id="tspan526">z2</tspan>);</tspan><tspan
+         sodipodi:role="line"
+         x="253.03265"
+         y="395.25415"
+         id="tspan420">real <tspan
+   style="font-weight:bold"
+   id="tspan448">angle_difference</tspan>(real <tspan
+   style="font-style:italic"
+   id="tspan530">dest</tspan>, real <tspan
+   style="font-style:italic"
+   id="tspan528">src</tspan>);</tspan><tspan
+         sodipodi:role="line"
+         x="253.03265"
+         y="410.25415"
+         id="tspan422">real <tspan
+   style="font-weight:bold"
+   id="tspan450">lengthdir_x</tspan>(real <tspan
+   style="font-style:italic"
+   id="tspan532">len</tspan>, real <tspan
+   style="font-style:italic"
+   id="tspan534">dir</tspan>);</tspan><tspan
+         sodipodi:role="line"
+         x="253.03265"
+         y="425.25415"
+         id="tspan424">real <tspan
+   style="font-weight:bold"
+   id="tspan452">lengthdir_y</tspan>(real <tspan
+   style="font-style:italic"
+   id="tspan538">len</tspan>, real <tspan
+   style="font-style:italic"
+   id="tspan536">dir</tspan>);</tspan></text><text
+       xml:space="preserve"
+       style="font-size:16px;fill:#000000"
+       x="253.92914"
+       y="240.17653"
+       id="text542"><tspan
+         sodipodi:role="line"
+         id="tspan540"
+         x="253.92914"
+         y="240.17653"
+         style="font-weight:bold;font-size:16px">Vectors</tspan></text><text
+       xml:space="preserve"
+       style="font-size:16px;fill:#000000"
+       x="443.19101"
+       y="61.821411"
+       id="text546"><tspan
+         sodipodi:role="line"
+         x="443.19101"
+         y="61.821411"
+         style="font-weight:bold"
+         id="tspan548">Random</tspan></text><text
+       xml:space="preserve"
+       style="font-size:12px;fill:#000000"
+       x="444.52304"
+       y="83.411125"
+       id="text554"><tspan
+         sodipodi:role="line"
+         id="tspan552"
+         x="444.52304"
+         y="83.411125"
+         style="font-size:12px">Any <tspan
+   style="font-weight:bold;font-size:12px"
+   id="tspan562">choose</tspan>(Any <tspan
+   style="font-style:italic;font-size:12px"
+   id="tspan556">val0</tspan>, Any <tspan
+   style="font-style:italic;font-size:12px"
+   id="tspan558">val1</tspan>, Any <tspan
+   style="font-style:italic;font-size:12px"
+   id="tspan560">val2</tspan> ...);</tspan><tspan
+         sodipodi:role="line"
+         x="444.52304"
+         y="98.411125"
+         id="tspan564"
+         style="font-size:12px">real <tspan
+   style="font-weight:bold;font-size:12px"
+   id="tspan566">random</tspan>(real <tspan
+   style="font-style:italic;font-size:12px"
+   id="tspan568">n</tspan>);</tspan><tspan
+         sodipodi:role="line"
+         x="444.52304"
+         y="113.41113"
+         id="tspan570"
+         style="font-size:12px">real <tspan
+   style="font-weight:bold;font-size:12px"
+   id="tspan582">random_range</tspan>(real <tspan
+   style="font-style:italic;font-size:12px"
+   id="tspan574">n1</tspan>, real <tspan
+   style="font-style:italic;font-size:12px"
+   id="tspan576">n2</tspan>);</tspan><tspan
+         sodipodi:role="line"
+         x="444.52304"
+         y="128.41113"
+         id="tspan584"
+         style="font-size:12px">real <tspan
+   style="font-weight:bold;font-size:12px"
+   id="tspan588">irandom</tspan>(real <tspan
+   style="font-style:italic;font-size:12px"
+   id="tspan586">n1</tspan>);</tspan><tspan
+         sodipodi:role="line"
+         x="444.52304"
+         y="143.41113"
+         id="tspan590"
+         style="font-size:12px">real <tspan
+   style="font-weight:bold;font-size:12px"
+   id="tspan596">irandom_range</tspan>(real <tspan
+   style="font-style:italic;font-size:12px"
+   id="tspan594">n1</tspan>, real <tspan
+   style="font-style:italic;font-size:12px"
+   id="tspan592">n2</tspan>);</tspan><tspan
+         sodipodi:role="line"
+         x="444.52304"
+         y="158.41113"
+         id="tspan598"
+         style="font-size:12px">undefined <tspan
+   style="font-weight:bold;font-size:12px"
+   id="tspan602">random_set_seed</tspan>(real <tspan
+   style="font-style:italic;font-size:12px"
+   id="tspan600">val</tspan>);</tspan><tspan
+         sodipodi:role="line"
+         x="444.52304"
+         y="173.41113"
+         id="tspan604"
+         style="font-size:12px">real <tspan
+   style="font-weight:bold;font-size:12px"
+   id="tspan606">random_get_seed</tspan>();</tspan><tspan
+         sodipodi:role="line"
+         x="444.52304"
+         y="188.41113"
+         id="tspan612"
+         style="font-size:12px">undefined <tspan
+   style="font-weight:bold;font-size:12px"
+   id="tspan616">random_set_seed</tspan>(real <tspan
+   style="font-style:italic;font-size:12px"
+   id="tspan614">val</tspan>);</tspan><tspan
+         sodipodi:role="line"
+         x="444.52304"
+         y="203.41113"
+         id="tspan608"
+         style="font-size:12px">real <tspan
+   style="font-weight:bold;font-size:12px"
+   id="tspan618">randomise</tspan>();</tspan><tspan
+         sodipodi:role="line"
+         x="444.52304"
+         y="218.41113"
+         id="tspan610"
+         style="font-size:12px" /></text><text
+       xml:space="preserve"
+       style="font-size:12px;fill:#000000"
+       x="43.624359"
+       y="390.81906"
+       id="text622"><tspan
+         sodipodi:role="line"
+         id="tspan620"
+         x="43.624359"
+         y="390.81906">real <tspan
+   style="font-weight:bold"
+   id="tspan624">round</tspan>(real <tspan
+   style="font-style:italic"
+   id="tspan626">n</tspan>);</tspan><tspan
+         sodipodi:role="line"
+         x="43.624359"
+         y="405.81906"
+         id="tspan628"><tspan
+   style="fill:#000006;fill-opacity:1"
+   id="tspan15307">real</tspan> <tspan
+   style="font-weight:bold"
+   id="tspan632">floor</tspan>(real <tspan
+   style="font-style:italic"
+   id="tspan630">n</tspan>);</tspan><tspan
+         sodipodi:role="line"
+         x="43.624359"
+         y="420.81906"
+         id="tspan634">real <tspan
+   style="font-weight:bold"
+   id="tspan638">frac</tspan>(real <tspan
+   style="font-style:italic"
+   id="tspan636">n</tspan>);</tspan><tspan
+         sodipodi:role="line"
+         x="43.624359"
+         y="435.81906"
+         id="tspan640">real <tspan
+   style="font-weight:bold"
+   id="tspan644">abs</tspan>(real <tspan
+   style="font-style:italic"
+   id="tspan642">val</tspan>);</tspan><tspan
+         sodipodi:role="line"
+         x="43.624359"
+         y="450.81906"
+         id="tspan646">real <tspan
+   style="font-weight:bold"
+   id="tspan650">sign</tspan>(real <tspan
+   style="font-style:italic"
+   id="tspan648">n</tspan>);</tspan><tspan
+         sodipodi:role="line"
+         x="43.624359"
+         y="465.81906"
+         id="tspan652">real <tspan
+   style="font-weight:bold"
+   id="tspan656">ceil</tspan>(real <tspan
+   style="font-style:italic"
+   id="tspan654">x</tspan>);</tspan><tspan
+         sodipodi:role="line"
+         x="43.624359"
+         y="480.81906"
+         id="tspan658">real <tspan
+   style="font-weight:bold"
+   id="tspan666">max</tspan>(real <tspan
+   style="font-style:italic"
+   id="tspan664">val0</tspan>, real <tspan
+   style="font-style:italic"
+   id="tspan662">val1</tspan>, real <tspan
+   style="font-style:italic"
+   id="tspan660">val2</tspan>, ...);</tspan><tspan
+         sodipodi:role="line"
+         x="43.624359"
+         y="495.81906"
+         id="tspan668">real <tspan
+   style="font-weight:bold"
+   id="tspan676">mean</tspan>(real <tspan
+   style="font-style:italic"
+   id="tspan700">val0</tspan>, real <tspan
+   style="font-style:italic"
+   id="tspan696">val1</tspan>, real <tspan
+   style="font-style:italic"
+   id="tspan698">val2</tspan>, ...);</tspan><tspan
+         sodipodi:role="line"
+         x="43.624359"
+         y="510.81906"
+         id="tspan678">real <tspan
+   style="font-weight:bold"
+   id="tspan680">median</tspan>(real <tspan
+   style="font-style:italic"
+   id="tspan702">val0</tspan>, real <tspan
+   style="font-style:italic"
+   id="tspan704">val1</tspan>, real <tspan
+   style="font-style:italic"
+   id="tspan706">val2</tspan>, ...);</tspan><tspan
+         sodipodi:role="line"
+         x="43.624359"
+         y="525.81909"
+         id="tspan682">real <tspan
+   style="font-weight:bold"
+   id="tspan684">min</tspan>(real <tspan
+   style="font-style:italic"
+   id="tspan712">val0</tspan>, real <tspan
+   style="font-style:italic"
+   id="tspan710">val1</tspan>, real <tspan
+   style="font-style:italic"
+   id="tspan708">val2</tspan>, ...);</tspan><tspan
+         sodipodi:role="line"
+         x="43.624359"
+         y="540.81909"
+         id="tspan686">real <tspan
+   style="font-weight:bold"
+   id="tspan694">lerp</tspan>(real <tspan
+   style="font-style:italic"
+   id="tspan692">a</tspan>, real <tspan
+   style="font-style:italic"
+   id="tspan690">b</tspan>, real <tspan
+   style="font-style:italic"
+   id="tspan688">amount</tspan>);</tspan><tspan
+         sodipodi:role="line"
+         x="43.624359"
+         y="555.81909"
+         id="tspan716">real <tspan
+   style="font-weight:bold"
+   id="tspan726">clamp</tspan>(real <tspan
+   style="font-style:italic"
+   id="tspan724">val</tspan>, real <tspan
+   style="font-style:italic"
+   id="tspan722">min</tspan>, real <tspan
+   style="font-style:italic"
+   id="tspan720">max</tspan>);</tspan></text><text
+       xml:space="preserve"
+       style="font-size:16px;fill:#000000"
+       x="43.223969"
+       y="366.15604"
+       id="text730"><tspan
+         sodipodi:role="line"
+         id="tspan728"
+         x="43.223969"
+         y="366.15604"
+         style="font-weight:bold;font-size:16px">Rounding</tspan></text><text
+       xml:space="preserve"
+       style="font-size:16px;fill:#000000"
+       x="606.1745"
+       y="433.19772"
+       id="text734"><tspan
+         sodipodi:role="line"
+         id="tspan732"
+         x="606.1745"
+         y="433.19772"
+         style="font-weight:bold">Miscelaneous</tspan></text><text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000"
+       x="606.57489"
+       y="456.5654"
+       id="text740"><tspan
+         sodipodi:role="line"
+         id="tspan738"
+         x="606.57489"
+         y="456.5654"
+         style="font-size:12px">real <tspan
+   style="font-weight:bold"
+   id="tspan744">exp</tspan>(real <tspan
+   style="font-style:italic"
+   id="tspan746">n</tspan>);</tspan><tspan
+         sodipodi:role="line"
+         x="606.57489"
+         y="471.5654"
+         style="font-size:12px"
+         id="tspan748">real <tspan
+   style="font-weight:bold"
+   id="tspan752">ln</tspan>(real <tspan
+   style="font-style:italic"
+   id="tspan754">n</tspan>);</tspan><tspan
+         sodipodi:role="line"
+         x="606.57489"
+         y="486.5654"
+         style="font-size:12px"
+         id="tspan756">real <tspan
+   style="font-weight:bold"
+   id="tspan762">power</tspan>(real <tspan
+   style="font-style:italic"
+   id="tspan760">n</tspan>, real <tspan
+   style="font-style:italic"
+   id="tspan758">x</tspan>);</tspan><tspan
+         sodipodi:role="line"
+         x="606.57489"
+         y="501.5654"
+         style="font-size:12px"
+         id="tspan764">real <tspan
+   style="font-weight:bold"
+   id="tspan768">sqr</tspan>(real <tspan
+   style="font-style:italic"
+   id="tspan766">val</tspan>);</tspan><tspan
+         sodipodi:role="line"
+         x="606.57489"
+         y="516.56537"
+         style="font-size:12px"
+         id="tspan770">real <tspan
+   style="font-weight:bold"
+   id="tspan774">sqrt</tspan>(real <tspan
+   style="font-style:italic"
+   id="tspan772">val</tspan>);</tspan><tspan
+         sodipodi:role="line"
+         x="606.57489"
+         y="531.56537"
+         style="font-size:12px"
+         id="tspan776">real <tspan
+   style="font-weight:bold"
+   id="tspan784">log2</tspan>(real <tspan
+   style="font-style:italic"
+   id="tspan778">n</tspan>);</tspan><tspan
+         sodipodi:role="line"
+         x="606.57489"
+         y="546.56537"
+         style="font-size:12px"
+         id="tspan786">real <tspan
+   style="font-weight:bold"
+   id="tspan790">log10</tspan>(real <tspan
+   style="font-style:italic"
+   id="tspan788">n</tspan>);</tspan><tspan
+         sodipodi:role="line"
+         x="606.57489"
+         y="561.56537"
+         style="font-size:12px"
+         id="tspan792">real <tspan
+   style="font-weight:bold"
+   id="tspan798">logn</tspan>(real <tspan
+   style="font-style:italic"
+   id="tspan796">n</tspan>, real <tspan
+   style="font-style:italic"
+   id="tspan794">val</tspan>);</tspan></text><text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000"
+       x="43.223969"
+       y="603.83569"
+       id="text818"><tspan
+         sodipodi:role="line"
+         id="tspan816"
+         x="43.223969"
+         y="603.83569"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Date &amp; Time</tspan></text><text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000"
+       x="55.61248"
+       y="971.37018"
+       id="text822"><tspan
+         sodipodi:role="line"
+         x="55.61248"
+         y="971.37018"
+         id="tspan824">real <tspan
+   style="font-weight:bold"
+   id="tspan830">current_time</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="55.61248"
+         y="986.37018"
+         id="tspan828">real <tspan
+   style="font-weight:bold"
+   id="tspan832">current_second</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="55.61248"
+         y="1001.3702"
+         id="tspan834">real <tspan
+   style="font-weight:bold"
+   id="tspan856">current_minute</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="55.61248"
+         y="1016.3702"
+         id="tspan836">real <tspan
+   style="font-weight:bold"
+   id="tspan854">current_hour</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="55.61248"
+         y="1031.3701"
+         id="tspan844" /><tspan
+         sodipodi:role="line"
+         x="55.61248"
+         y="1046.3701"
+         id="tspan858" /></text><text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000"
+       x="44.063812"
+       y="618.89282"
+       id="text862"><tspan
+         sodipodi:role="line"
+         id="tspan860"
+         x="44.063812"
+         y="618.89282">Datetime <tspan
+   style="font-weight:bold"
+   id="tspan1226">date_create_datetime</tspan>(<tspan
+   style="font-style:italic"
+   id="tspan1270">real</tspan> year, <tspan
+   style="font-style:italic"
+   id="tspan1272">real</tspan> month, <tspan
+   style="font-style:italic"
+   id="tspan1274">real</tspan> day, <tspan
+   style="font-style:italic"
+   id="tspan1276">real</tspan> hour, <tspan
+   style="font-style:italic"
+   id="tspan1278">real</tspan> minute, <tspan
+   style="font-style:italic"
+   id="tspan1280">real</tspan> second);</tspan><tspan
+         sodipodi:role="line"
+         x="44.063812"
+         y="633.89282"
+         id="tspan864">Datetime <tspan
+   style="font-weight:bold"
+   id="tspan1228">date_current_datetime</tspan>();</tspan><tspan
+         sodipodi:role="line"
+         x="44.063812"
+         y="648.89282"
+         id="tspan866">real <tspan
+   style="font-weight:bold"
+   id="tspan1230">date_compare_date</tspan>(<tspan
+   style="font-style:italic"
+   id="tspan1282">Datetime</tspan> date1, <tspan
+   style="font-style:italic"
+   id="tspan1284">Datetime</tspan> date2);</tspan><tspan
+         sodipodi:role="line"
+         x="44.063812"
+         y="663.89282"
+         id="tspan868">real <tspan
+   style="font-weight:bold"
+   id="tspan1232">date_compare_datetime</tspan>(<tspan
+   style="font-style:italic"
+   id="tspan1288">Datetime</tspan> date1, <tspan
+   style="font-style:italic"
+   id="tspan1286">Datetime</tspan> date2);</tspan><tspan
+         sodipodi:role="line"
+         x="44.063812"
+         y="678.89282"
+         id="tspan870">real <tspan
+   style="font-weight:bold"
+   id="tspan1234">date_compare_time</tspan>(<tspan
+   style="font-style:italic"
+   id="tspan1290">Datetime</tspan> date1, <tspan
+   style="font-style:italic"
+   id="tspan1292">Datetime</tspan> date2);</tspan><tspan
+         sodipodi:role="line"
+         x="44.063812"
+         y="693.89282"
+         id="tspan1442">bool <tspan
+   style="font-weight:bold"
+   id="tspan1236">date_valid_datetime</tspan>(<tspan
+   style="font-style:italic"
+   id="tspan1450">real</tspan> year, <tspan
+   style="font-style:italic"
+   id="tspan1296">real</tspan> month, <tspan
+   style="font-style:italic"
+   id="tspan1298">real</tspan> day, <tspan
+   style="font-style:italic"
+   id="tspan1444">real</tspan> hour, <tspan
+   style="font-style:italic"
+   id="tspan1302">real</tspan> minute, <tspan
+   style="font-style:italic"
+   id="tspan1304">real</tspan> second);</tspan><tspan
+         sodipodi:role="line"
+         x="44.063812"
+         y="708.89282"
+         id="tspan874">real <tspan
+   style="font-weight:bold"
+   id="tspan1238">date_date_of</tspan>(<tspan
+   style="font-style:italic"
+   id="tspan1306">Datetime</tspan> date);</tspan><tspan
+         sodipodi:role="line"
+         x="44.063812"
+         y="723.89282"
+         id="tspan876">real <tspan
+   style="font-weight:bold"
+   id="tspan1240">date_time_of</tspan>(<tspan
+   style="font-style:italic"
+   id="tspan1308">Datetime</tspan> date);</tspan><tspan
+         sodipodi:role="line"
+         x="44.063812"
+         y="738.89282"
+         id="tspan878">bool <tspan
+   style="font-weight:bold"
+   id="tspan1242">date_is_today</tspan>(<tspan
+   style="font-style:italic"
+   id="tspan1310">Datetime</tspan> date);</tspan><tspan
+         sodipodi:role="line"
+         x="44.063812"
+         y="753.89282"
+         id="tspan880">bool <tspan
+   style="font-weight:bold"
+   id="tspan1244">date_leap_year</tspan>(<tspan
+   style="font-style:italic"
+   id="tspan1312">Datetime</tspan> date);</tspan><tspan
+         sodipodi:role="line"
+         x="44.063812"
+         y="768.89282"
+         id="tspan882">string <tspan
+   style="font-weight:bold"
+   id="tspan1246">date_date_string</tspan>(<tspan
+   style="font-style:italic"
+   id="tspan1314">Datetime</tspan> date);</tspan><tspan
+         sodipodi:role="line"
+         x="44.063812"
+         y="783.89282"
+         id="tspan884">string <tspan
+   style="font-weight:bold"
+   id="tspan1248">date_datetime_string</tspan>(<tspan
+   style="font-style:italic"
+   id="tspan1316">Datetime</tspan> date);</tspan><tspan
+         sodipodi:role="line"
+         x="44.063812"
+         y="798.89282"
+         id="tspan886">string <tspan
+   style="font-weight:bold"
+   id="tspan1250">date_time_string</tspan>(<tspan
+   style="font-style:italic"
+   id="tspan1318">Datetime</tspan> date);</tspan><tspan
+         sodipodi:role="line"
+         x="44.063812"
+         y="813.89282"
+         id="tspan888">real <tspan
+   style="font-weight:bold"
+   id="tspan1252">date_second_span</tspan>(<tspan
+   style="font-style:italic"
+   id="tspan1320">Datetime</tspan> date1, <tspan
+   style="font-style:italic"
+   id="tspan1322">Datetime</tspan> date2);</tspan><tspan
+         sodipodi:role="line"
+         x="44.063812"
+         y="828.89282"
+         id="tspan890">real <tspan
+   style="font-weight:bold"
+   id="tspan1254">date_minute_span</tspan>(<tspan
+   style="font-style:italic"
+   id="tspan1326">Datetime</tspan> date1, <tspan
+   style="font-style:italic"
+   id="tspan1324">Datetime</tspan> date2);</tspan><tspan
+         sodipodi:role="line"
+         x="44.063812"
+         y="843.89282"
+         id="tspan892">real <tspan
+   style="font-weight:bold"
+   id="tspan1256">date_hour_span</tspan>(<tspan
+   style="font-style:italic"
+   id="tspan1328">Datetime</tspan> date1, <tspan
+   style="font-style:italic"
+   id="tspan1330">Datetime</tspan> date2);</tspan><tspan
+         sodipodi:role="line"
+         x="44.063812"
+         y="858.89282"
+         id="tspan894">real <tspan
+   style="font-weight:bold"
+   id="tspan1258">date_day_span</tspan>(<tspan
+   style="font-style:italic"
+   id="tspan1334">Datetime</tspan> date1,  <tspan
+   style="font-style:italic"
+   id="tspan1332">Datetime</tspan> date2);</tspan><tspan
+         sodipodi:role="line"
+         x="44.063812"
+         y="873.89282"
+         id="tspan896">real <tspan
+   style="font-weight:bold"
+   id="tspan1260">date_week_span</tspan>(<tspan
+   style="font-style:italic"
+   id="tspan1336">Datetime</tspan> date1, <tspan
+   style="font-style:italic"
+   id="tspan1338">Datetime</tspan> date2);</tspan><tspan
+         sodipodi:role="line"
+         x="44.063812"
+         y="888.89282"
+         id="tspan898">real <tspan
+   style="font-weight:bold"
+   id="tspan1262">date_month_span</tspan>(<tspan
+   style="font-style:italic"
+   id="tspan1342">Datetime</tspan> date1, <tspan
+   style="font-style:italic"
+   id="tspan1340">Datetime</tspan> date2);</tspan><tspan
+         sodipodi:role="line"
+         x="44.063812"
+         y="903.89282"
+         id="tspan900">real <tspan
+   style="font-weight:bold"
+   id="tspan1264">date_year_span</tspan>(<tspan
+   style="font-style:italic"
+   id="tspan1344">Datetime</tspan> date1, <tspan
+   style="font-style:italic"
+   id="tspan1346">Datetime</tspan> date2);</tspan><tspan
+         sodipodi:role="line"
+         x="44.063812"
+         y="918.89282"
+         id="tspan902">real <tspan
+   style="font-weight:bold"
+   id="tspan1266">date_days_in_month</tspan>(<tspan
+   style="font-style:italic"
+   id="tspan1348">Datetime</tspan> date);</tspan><tspan
+         sodipodi:role="line"
+         x="44.063812"
+         y="933.89282"
+         id="tspan904">real <tspan
+   style="font-weight:bold"
+   id="tspan1268">date_days_in_year</tspan>(<tspan
+   style="font-style:italic"
+   id="tspan1350">Datetime</tspan> date);</tspan><tspan
+         sodipodi:role="line"
+         x="44.063812"
+         y="948.89282"
+         id="tspan948" /></text><text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000"
+       x="427.88583"
+       y="724.17218"
+       id="text1184"><tspan
+         sodipodi:role="line"
+         id="tspan1182"
+         x="427.88583"
+         y="724.17218">real <tspan
+   style="font-weight:bold"
+   id="tspan1404">date_get_second</tspan>(<tspan
+   style="font-style:italic"
+   id="tspan1352">Datetime</tspan> date);</tspan><tspan
+         sodipodi:role="line"
+         x="427.88583"
+         y="739.17218"
+         id="tspan1186">real <tspan
+   style="font-weight:bold"
+   id="tspan1406">date_get_minute</tspan>(<tspan
+   style="font-style:italic"
+   id="tspan1354">Datetime</tspan> date);</tspan><tspan
+         sodipodi:role="line"
+         x="427.88583"
+         y="754.17218"
+         id="tspan1188">real <tspan
+   style="font-weight:bold"
+   id="tspan1408">date_get_hour</tspan>(<tspan
+   style="font-style:italic"
+   id="tspan1356">Datetime</tspan> date);</tspan><tspan
+         sodipodi:role="line"
+         x="427.88583"
+         y="769.17218"
+         id="tspan1190">real <tspan
+   style="font-weight:bold"
+   id="tspan1410">date_get_day</tspan>(<tspan
+   style="font-style:italic"
+   id="tspan1358">Datetime</tspan> date);</tspan><tspan
+         sodipodi:role="line"
+         x="427.88583"
+         y="784.17218"
+         id="tspan1192">real <tspan
+   style="font-weight:bold"
+   id="tspan1412">date_get_weekday</tspan>(<tspan
+   style="font-style:italic"
+   id="tspan1360">Datetime</tspan> date);</tspan><tspan
+         sodipodi:role="line"
+         x="427.88583"
+         y="799.17218"
+         id="tspan1194">real <tspan
+   style="font-weight:bold"
+   id="tspan1414">date_get_week</tspan>(<tspan
+   style="font-style:italic"
+   id="tspan1362">Datetime</tspan> date);</tspan><tspan
+         sodipodi:role="line"
+         x="427.88583"
+         y="814.17218"
+         id="tspan1196">real <tspan
+   style="font-weight:bold"
+   id="tspan1416">date_get_month</tspan>(<tspan
+   style="font-style:italic"
+   id="tspan1364">Datetime</tspan> date);</tspan><tspan
+         sodipodi:role="line"
+         x="427.88583"
+         y="829.17218"
+         id="tspan1198">real <tspan
+   style="font-weight:bold"
+   id="tspan1418">date_get_year</tspan>(<tspan
+   style="font-style:italic"
+   id="tspan1366">Datetime</tspan> date);</tspan><tspan
+         sodipodi:role="line"
+         x="427.88583"
+         y="844.17218"
+         id="tspan1200"></tspan><tspan
+         sodipodi:role="line"
+         x="427.88583"
+         y="859.17218"
+         id="tspan1202">real <tspan
+   style="font-weight:bold"
+   id="tspan1420">date_get_second_of_year</tspan>(<tspan
+   style="font-style:italic"
+   id="tspan1368">Datetime</tspan> date);</tspan><tspan
+         sodipodi:role="line"
+         x="427.88583"
+         y="874.17218"
+         id="tspan1204">real <tspan
+   style="font-weight:bold"
+   id="tspan1422">date_get_minute_of_year</tspan>(<tspan
+   style="font-style:italic"
+   id="tspan1370">Datetime</tspan> date);</tspan><tspan
+         sodipodi:role="line"
+         x="427.88583"
+         y="889.17218"
+         id="tspan1206">real <tspan
+   style="font-weight:bold"
+   id="tspan1424">date_get_hour_of_year</tspan>(<tspan
+   style="font-style:italic"
+   id="tspan1372">Datetime</tspan> date);</tspan><tspan
+         sodipodi:role="line"
+         x="427.88583"
+         y="904.17218"
+         id="tspan1208">real <tspan
+   style="font-weight:bold"
+   id="tspan1426">date_get_day_of_year</tspan>(<tspan
+   style="font-style:italic"
+   id="tspan1374">Datetime</tspan> date);</tspan><tspan
+         sodipodi:role="line"
+         x="427.88583"
+         y="919.17218"
+         id="tspan1210"></tspan><tspan
+         sodipodi:role="line"
+         x="427.88583"
+         y="934.17218"
+         id="tspan1212">Datetime <tspan
+   style="font-weight:bold"
+   id="tspan1428">date_inc_second</tspan>(<tspan
+   style="font-style:italic"
+   id="tspan1376">Datetime</tspan> date, <tspan
+   style="font-style:italic"
+   id="tspan1378">real</tspan> amount);</tspan><tspan
+         sodipodi:role="line"
+         x="427.88583"
+         y="949.17218"
+         id="tspan1214">Datetime <tspan
+   style="font-weight:bold"
+   id="tspan1430">date_inc_minute</tspan>(<tspan
+   style="font-style:italic"
+   id="tspan1382">Datetime</tspan> date, <tspan
+   style="font-style:italic"
+   id="tspan1380">real</tspan> amount);</tspan><tspan
+         sodipodi:role="line"
+         x="427.88583"
+         y="964.17218"
+         id="tspan1216">Datetime <tspan
+   style="font-weight:bold"
+   id="tspan1432">date_inc_hour</tspan>(<tspan
+   style="font-style:italic"
+   id="tspan1384">Datetime</tspan> date, <tspan
+   style="font-style:italic"
+   id="tspan1386">real</tspan> amount);</tspan><tspan
+         sodipodi:role="line"
+         x="427.88583"
+         y="979.17218"
+         id="tspan1218">Datetime <tspan
+   style="font-weight:bold"
+   id="tspan1434">date_inc_day</tspan>(<tspan
+   style="font-style:italic"
+   id="tspan1390">Datetime</tspan> date, <tspan
+   style="font-style:italic"
+   id="tspan1388">real</tspan> amount);</tspan><tspan
+         sodipodi:role="line"
+         x="427.88583"
+         y="994.17218"
+         id="tspan1220">Datetime <tspan
+   style="font-weight:bold"
+   id="tspan1436">date_inc_week</tspan>(<tspan
+   style="font-style:italic"
+   id="tspan1392">Datetime</tspan> date, <tspan
+   style="font-style:italic"
+   id="tspan1394">real</tspan> amount);</tspan><tspan
+         sodipodi:role="line"
+         x="427.88583"
+         y="1009.1722"
+         id="tspan1222">Datetime <tspan
+   style="font-weight:bold"
+   id="tspan1438">date_inc_month</tspan>(<tspan
+   style="font-style:italic"
+   id="tspan1398">Datetime</tspan> date, <tspan
+   style="font-style:italic"
+   id="tspan1396">real</tspan> amount);</tspan><tspan
+         sodipodi:role="line"
+         x="427.88583"
+         y="1024.1722"
+         id="tspan1224">Datetime <tspan
+   style="font-weight:bold"
+   id="tspan1440">date_inc_year</tspan>(<tspan
+   style="font-style:italic"
+   id="tspan1400">Datetime</tspan> date, <tspan
+   style="font-style:italic"
+   id="tspan1402">real</tspan> amount);</tspan></text><text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000"
+       x="221.33922"
+       y="971.37018"
+       id="text1487"><tspan
+         sodipodi:role="line"
+         id="tspan1485"
+         x="221.33922"
+         y="971.37018">real <tspan
+   style="font-weight:bold"
+   id="tspan1495">curent_day</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="221.33922"
+         y="986.37018"
+         id="tspan1489">real <tspan
+   style="font-weight:bold"
+   id="tspan1497">current_weekday</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="221.33922"
+         y="1001.3702"
+         id="tspan1491">real <tspan
+   style="font-weight:bold"
+   id="tspan1499">current_month</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="221.33922"
+         y="1016.3702"
+         id="tspan1493">real <tspan
+   style="font-weight:bold"
+   id="tspan1501">current_year</tspan></tspan></text><image
+       width="126.04986"
+       height="114.28521"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       xlink:href="data:image/png;base64,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
+AySlDClB4HAMIXCAuJchJQg0hyEEjhDXMqQEgeYwhMAR4laG+Xxe/f39Gh+/oampW5qYmKAEgUMw
+hECT4lCGjuNoYGBAv/71tKampvThhxO6fPkSJQgcgiEEmmR6GebzHRoY6Ne7776rW7du6cMPP9SV
+K1fU09MbyXmAuGAIgWMysQx3SrBf09MfaWpq56uULl++pI6OztDPAsQNQwgc08Fl6Onrr9+UYb1e
+D+U8b0rwvT1Ph15WT09PKD8fiDuGEDghfxl2d/fKdV1Vq1UtLS1pY2MjlDPsLcFisahLly6ro6Mj
+8J8NJAVDCJyQvwxd19Py8pJc19W3336rFy9eaHt7O7Ay3K8EL12iBIHjYgiBU2qU4fnzjTLsVr3u
+ant7W6VSSZubm4H8TEoQaA2GEDilvWU4PDwsz3O1vLwsSXr69IlevnzZ0jKkBIHWYgiBFkmlUspm
+s7p48aJ+97vfqa9v592k1Wq1ZWVICQKtxxACLdJ4irRQ6NbISF6SVCrtfM6wFWVICQLBYAiBFgui
+DClBIDgMIdBirS7Djo4O9fdTgkBQGEIgIK0oQ8dx1N8/oOnpaUoQCAhDCATkNGXoOI46Ojo0ODi4
++7tDP/jgQ0oQCABDCATsuGXY+DjG4OCgbt/+RFNTU/rVr36ld94ZogSBADCEQMCOU4ZvSvCMbt68
+qampnW+RuHjxogqFQpT/GEBiMYRASI4qw62trdcleEa3b9/W1NQtffDBB7p48aLy+XzEpweSiyEE
+QnJYGf7zn0/16tUrdXf36MaNG5QgECKGEAiZvwz7+/uVTqdVLpc1Pj6u9967SQkCIWIIgZD5y9Bx
+Unr16pXW19c1Pn5Dw8PDlCAQIsfzPC/qQwA28jxPrutqfX1di4uLqtfrKhQK6uzsVD6fVybD41Qg
+DAwhAMBqqagPAABAlBhCAIDVGEIAgNUYQgCA1RhCAIDVGEIAgNUYQgCA1RhCAIDVGEIAgNUYQgCA
+1RhCAIDVGEIAgNUYQgCA1RhCAIDVGEIAgNUYQgCA1RhCAIDVGEIAgNUYQgCA1RhCAIDVGEIAgNUY
+QgCA1RhCAIDVGEIAgNUYQgCA1RhCAIDVGEIAgNUYQgCA1RhCAIDVGEIAgNUYQgCA1f4fOaJ965Ou
+mOwAAAAASUVORK5CYII=
+"
+       id="image9420"
+       x="411.59042"
+       y="452.88284" /></g></svg>
